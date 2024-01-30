@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "771268790198",
+    "firebase_url": "https://rural-673d1.firebaseio.com",
+    "project_id": "rural-673d1",
+    "storage_bucket": "rural-673d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771268790198:android:16b977c34ee804fe",
+        "android_client_info": {
+          "package_name": "com.example.admin.rural"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771268790198-9qslpo6aeo3qmspijbdd1e7ahe0fhug4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgT0zzC-iewpZIdJPFU7uJJokcc7eVFck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

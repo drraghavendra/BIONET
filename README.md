@@ -16,9 +16,12 @@ APPLICATION Salient Features
 
 6)GPS feature enabled with path optimization enables to pick up agricultural waste efficiently and directly from the field.
 
-Instructions to run the Code Inti
+Instructions to run the Code 
 
 1)Install BioNet.apk on Android Mobile
+
 2)Accept permissions then
+
 3)Sign up to a new account
+
 4)Onboarded and make use of the app to create  Green Energy Initiative and Impact on the society
